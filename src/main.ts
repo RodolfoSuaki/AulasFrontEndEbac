@@ -20,4 +20,3 @@ const pessoa1 = new Pessoa ("Pedro");
 
 console.log(pessoa1.dizOla());
 console.log(multiplicar(2, 5));
-
